@@ -2,6 +2,15 @@
 <a href="..."><img src="https://media-exp1.licdn.com/dms/image/C4E16AQE0hfJR_Mm5Ag/profile-displaybackgroundimage-shrink_200_800/0/1620486182647?e=1631145600&v=beta&t=AHvxn4VMp9Qdn6Lyb7EnntRmP4_UToMlNNWa2kkOjnM" alt="Ian's Header"></a>
 </div>
 
+👾 Software Engineer // Full-Stack Developer with proficiencies in Ruby, Ruby on Rails, SQL, JavaScript, RESTful API and React.
+
+👨🏻‍💻 15 years of experience in business operations, business development, sales, and marketing. I have a firm understanding of customer-facing positions and how to find a business’s pain points and use them to engineer a software solution that will solve their problems and make their business more effective.
+
+👨🏼‍🏫 Continuously Improving my skills in:
+Software Engineering, Ethical Hacking, Leadership, Public Speaking, Problem Solving & Empathy
+
+🚌 I am willing to relocate for the right opportunity!
+
 <!--
 **codified-likeness-utility/codified-likeness-utility** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
