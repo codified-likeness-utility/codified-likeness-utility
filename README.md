@@ -12,7 +12,7 @@
 Software Engineering, Ethical Hacking, Leadership, Public Speaking, Problem Solving & Empathy</li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codified-likeness-utility)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codified-likeness-utility&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codified-likeness-utility&show_icons=true&theme=material-palenight)
 
 
