@@ -12,5 +12,8 @@
 Software Engineering, Ethical Hacking, Leadership, Public Speaking, Problem Solving & Empathy</li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codified-likeness-utility&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codified-likeness-utility&show_icons=true&hide_border=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codified-likeness-utility&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codified-likeness-utility&show_icons=true&hide_border=true&theme=tokyonight)
 
