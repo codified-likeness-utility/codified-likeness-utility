@@ -11,6 +11,9 @@
 <li>👨🏼‍🏫 Continuously Improving my skills in:
 Software Engineering, Ethical Hacking, Leadership, Public Speaking, Problem Solving & Empathy</li>
 </ul>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codified-likeness-utility)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **codified-likeness-utility/codified-likeness-utility** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
