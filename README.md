@@ -1,5 +1,4 @@
 <div align="center>
-<a href="..."><img src="https://media-exp1.licdn.com/dms/image/C4E16AQE0hfJR_Mm5Ag/profile-displaybackgroundimage-shrink_200_800/0/1620486182647?e=1631145600&v=beta&t=AHvxn4VMp9Qdn6Lyb7EnntRmP4_UToMlNNWa2kkOjnM" alt="Ian's Header"></a>
 </div>
 <br>
 <br>
