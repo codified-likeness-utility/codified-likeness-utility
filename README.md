@@ -1,5 +1,5 @@
 <div align="center>
-</div>
+
 <br>
 <br>
 <ul>
@@ -10,7 +10,7 @@
 <li>👨🏼‍🏫 Continuously Improving my skills in:
 Software Engineering, Ethical Hacking, Leadership, Public Speaking, Problem Solving & Empathy</li>
 </ul>
-
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codified-likeness-utility&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
